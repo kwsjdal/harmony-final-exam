@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "notification_reason",
+      "value": "用于发送课程和作业提醒通知"
+    },
+    {
+      "name": "gallery_reason",
+      "value": "用于保存课表截图到相册"
+    }
+  ]
+}

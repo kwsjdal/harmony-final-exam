@@ -1,0 +1,21 @@
+{
+  "forms": [
+    {
+      "name": "TodayCourseCard",
+      "description": "今日课程服务卡片 (2×4)",
+      "src": "./ets/TodayCourseCard.ets",
+      "formConfigAbility": "ability://EntryAbility",
+      "uiSyntax": "arkts",
+      "isDefault": true,
+      "updateEnabled": true,
+      "scheduledUpdateTime": "10:30",
+      "updateDuration": 1,
+      "defaultDimension": "2*4",
+      "supportDimensions": [
+        "2*4"
+      ],
+      "colorMode": "auto",
+      "metadata": []
+    }
+  ]
+}
